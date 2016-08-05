@@ -1,12 +1,12 @@
 # Calculator API
 
-It's a RESTful API delivering real Hypermedia contents (following HATEOAS practice).
+It's a RESTful API delivering real Hypermedia contents (following HATEOAS practice) build using loopback.
 
-Install Strongloop
+Install Strongloop ---
     npm install -g strongloop
 
-Install node-modules
+Install node-modules ---
     npm install
 
-To run the API
+To run the API ---
     slc run
